@@ -1,4 +1,5 @@
-# sample_1_nuxt
+# Nuxt-Gradient
+Use PixiJS and Nuxt to create a page transition
 
 ## Build Setup
 
@@ -18,3 +19,7 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## Acknowledgments
+
+Transition taken from [this website.](https://leonard.agency/)
