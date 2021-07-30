@@ -1,0 +1,25 @@
+{
+  "name": "sample_1_nuxt",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@pixi/polyfill": "^6.0.1",
+    "core-js": "^3.9.1",
+    "gsap": "^3.6.1",
+    "nuxt": "^2.15.3",
+    "pixi.js": "^6.0.1",
+    "pixi.js-legacy": "^6.0.1"
+  },
+  "devDependencies": {
+    "fibers": "^5.0.0",
+    "raw-loader": "^4.0.2",
+    "sass": "^1.32.8",
+    "sass-loader": "^10.1.1"
+  }
+}
